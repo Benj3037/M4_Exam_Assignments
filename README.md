@@ -15,12 +15,22 @@ The initiative of the application is to create an application that can act as a 
 - Prompt Engineering Comparison: Experiment with and evaluate at least three different prompt engineering techniques to determine their impact on the model’s performance.
 - Platform Integration: Deploy the application on Hugging Face, with interactive access provided via Gradio or HF Spaces.
 
+### Data/Document
+The data used for conducting RAG is the recipes.pdf, this document contains 10 recipes of any kind of food around the world.
+
+### Approach
 
 #### 1. RAG and Vector Database Integration: Implement RAG with ChromDB and LanceDB to enhance information retrieval and content generation.
+Using ChromaDB as a vector database with our document to integrate into the pretrained language model from HuggingFace "Mistral-7B-Instruct-v0.1" as our Retrieval-Augmented Generation approach.
 
 #### 2. Transformer Model Adaptation: Use transformer models (SBERT or BERT)
 Transformer Model Adaptation refers to the process of fine-tuning or adapting pre-trained Transformer models to specific downstream tasks or domains. We initialize the General Text Embeddings (GTE) model, which is based on BERT transformer model.
 
 #### 3. Prompt Engineering Comparison: Experiment with and evaluate at least three different prompt engineering techniques to determine their impact on the model’s performance.
+Experimenting with Prompt Engineering techniques such as N-shot, Chain of Thought and Self-consistency. 
 
 #### 4. Platform Integration: Deploy the application on Hugging Face, with interactive access provided via Gradio or HF Spaces.
+The Platform which it was integrated in is Gradio, that way we can provide an interactive experience with the Information Retrieval function.
+
+### Results
+
