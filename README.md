@@ -33,4 +33,10 @@ Experimenting with Prompt Engineering techniques such as N-shot, Chain of Though
 The Platform which it was integrated in is Gradio, that way we can provide an interactive experience with the generative responses and retrieved information function.
 
 ### Results
+We get different outputs based on the structure and technique used to prompt the model.
+This illustrates the importance of considering which purpose we want to fulfill with the application and how we structure the prompt for the model to provide an answer that aligns with the intentions.
+
+For the Platform Integration, we proceed with the N-Shot Prompting as this seems to be the technique that fits the intentions the best and effectively contributes to the application's capabilities.
+
+
 
