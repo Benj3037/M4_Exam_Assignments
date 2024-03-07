@@ -16,10 +16,11 @@ The initiative of the application is to create an application that can act as a 
 - Platform Integration: Deploy the application on Hugging Face, with interactive access provided via Gradio or HF Spaces.
 
 
-#### RAG and Vector Database Integration: Implement RAG with ChromDB and LanceDB to enhance information retrieval and content generation.
+#### 1. RAG and Vector Database Integration: Implement RAG with ChromDB and LanceDB to enhance information retrieval and content generation.
 
-#### Transformer Model Adaptation: Use transformer models (SBERT or BERT)
+#### 2. Transformer Model Adaptation: Use transformer models (SBERT or BERT)
+Transformer Model Adaptation refers to the process of fine-tuning or adapting pre-trained Transformer models to specific downstream tasks or domains. We initialize the General Text Embeddings (GTE) model, which is based on BERT transformer model.
 
-#### Prompt Engineering Comparison: Experiment with and evaluate at least three different prompt engineering techniques to determine their impact on the model’s performance.
+#### 3. Prompt Engineering Comparison: Experiment with and evaluate at least three different prompt engineering techniques to determine their impact on the model’s performance.
 
-#### Platform Integration: Deploy the application on Hugging Face, with interactive access provided via Gradio or HF Spaces.
+#### 4. Platform Integration: Deploy the application on Hugging Face, with interactive access provided via Gradio or HF Spaces.
