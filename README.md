@@ -30,7 +30,7 @@ Transformer Model Adaptation refers to the process of fine-tuning or adapting pr
 Experimenting with Prompt Engineering techniques such as N-shot, Chain of Thought and Self-consistency. 
 
 #### 4. Platform Integration: Deploy the application on Hugging Face, with interactive access provided via Gradio or HF Spaces.
-The Platform which it was integrated in is Gradio, that way we can provide an interactive experience with the Information Retrieval function.
+The Platform which it was integrated in is Gradio, that way we can provide an interactive experience with the generative responses and retrieved information function.
 
 ### Results
 
