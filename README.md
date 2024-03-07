@@ -1,4 +1,4 @@
-# Overall Applied Deep Learning and Artificial Intelligence Portfolio
+# Applied Deep Learning and Artificial Intelligence Portfolio
 
 ## Assignment 1 - Practical Aspects of Deep Learning
 Boston Housing Price Prediction with PyTorch Neural Network 
@@ -10,6 +10,5 @@ Semantic Search using Text and GIFs & Gradient Descent and Attention Mechanism e
 Building a QA System using RAG and Summarizer for Strategic Information Generation
 
 ## Assignment 4 - Advanced AI Applications
-Building an AI Application, focusing on the Integration of Retrieval-Augmented Generation (RAG) using Recipes 
-
+Building an AI Recipe Recommender Application, focusing on the Integration of Retrieval-Augmented Generation (RAG) 
 
